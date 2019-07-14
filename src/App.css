@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+}
+.addButton{
+  float: left;
+}
+
+.table-head{
+   background-color: #8C8989;
+}
+
+.table-head th{
+  color: #F6F4F4;
+}
+
+.table-head tr:hover{
+  background-color: #8C8989;
+}
